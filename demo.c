@@ -1,4 +1,4 @@
-jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj#include<stdio.h>
+kjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj#include<stdio.h>
 int main()
 {
   int a=10;
@@ -7,4 +7,4 @@ int main()
   printf("c is" +c);
   printf("addition");
 }
-fcgvygvub
+fcgvygvubkkkkkkkkkkkkkkkkkkkkkkkk
